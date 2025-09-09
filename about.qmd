@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+Author: Devon Vorster
+
+About: My First Attempt at Using Quarto to Make a Website
