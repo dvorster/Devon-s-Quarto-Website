@@ -4,4 +4,4 @@ title: "About"
 
 Author: Devon Vorster
 
-About: My First Attempt at Using Quarto to Make a Website
+ Welcome to my website!! This was made for UBC MDS!!
