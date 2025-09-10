@@ -4,4 +4,6 @@ title: "About"
 
 Author: Devon Vorster
 
- Welcome to my website!! This was made for UBC MDS!!
+ Welcome to my website!! 
+ 
+ This was made as part of UBC MDS 521 2!!
